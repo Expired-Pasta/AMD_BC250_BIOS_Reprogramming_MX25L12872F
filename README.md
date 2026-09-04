@@ -90,6 +90,7 @@ App Download URL : [http://www.yaojiedianzi.com/](http://www.yaojiedianzi.com/in
 1. 배선 완료 후 프로그래머를 PC USB 포트에 연결합니다.
 2. 소프트웨어에서 `Detect` 버튼을 눌러 **MX25L12872F** (또는 호환되는 MX25L128 시리즈)가 올바르게 감지되는지 확인합니다.
 <img width="544" height="350" alt="스크린샷 2026-09-04 171542" src="https://github.com/user-attachments/assets/f22165a1-37f1-4e7d-bfb4-b0e09d2ea5a6" />
+<img width="904" height="734" alt="스크린샷 2026-09-04 175258" src="https://github.com/user-attachments/assets/b500004f-d7e6-4f0f-9aa0-16e6a14eb18a" />
 
 
 ### Step 2: 기존 롬 읽기 및 백업 (Read / Backup)
