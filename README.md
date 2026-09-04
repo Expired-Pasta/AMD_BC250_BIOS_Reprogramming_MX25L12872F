@@ -81,14 +81,15 @@ App Download URL : [http://www.yaojiedianzi.com/](http://www.yaojiedianzi.com/in
 
 <img width="1500" height="1125" alt="photo_3_2026-09-04_15-49-12" src="https://github.com/user-attachments/assets/623e3b6b-c92a-45a6-84e1-10cbb2f972c5" />
 
-J4004. 1번 ----- programmer socket 8번
-J4004. 2번 ----- programmer socket 4번
-J4004. 3번 ----- programmer socket 1번
-J4004. 4번 ----- programmer socket 6번
-J4004. 5번 ----- programmer socket 2번
-J4004. 6번 ----- programmer socket 5번
-J4004. 7번 ----- programmer socket X
-J4004. 8번 ----- programmer socket X
+* J4004. 1번 ----- programmer socket 8번
+* J4004. 2번 ----- programmer socket 4번
+* J4004. 3번 ----- programmer socket 1번
+* J4004. 4번 ----- programmer socket 6번
+* J4004. 5번 ----- programmer socket 2번
+* J4004. 6번 ----- programmer socket 5번
+* J4004. 7번 ----- programmer socket X
+* J4004. 8번 ----- programmer socket X
+
 ---
 
 ## 5. 복구 및 플래싱 절차 (Flashing Procedure)
